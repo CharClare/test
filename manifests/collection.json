@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://CharClare.github.io/test/manifests/manifest2.json",
     "label" : "Test Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://CharClare.github.io/test/manifests/manifest.json",
+    "label" : "Test Manifest"
   } ]
 }
